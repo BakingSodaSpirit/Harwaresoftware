@@ -1,0 +1,8 @@
+A student that has successfully completed this course should be able to:
+
+Develop Python codes to implement high-level applications.
+Develop digital circuits using FPGA,Xilinx Development tool.
+Develop ARM,and FPGA based BareMetal embedded system design. 
+Explore hardware and software design alternatives.
+Identify performance bottlenecks in a given hardware-software architecture and optimize them by transformations on hardware and software components. 
+Analyze and explain the control-flow,data-flow of a software program and a cycle-based hardware description.
