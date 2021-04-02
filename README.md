@@ -1,5 +1,4 @@
-# Harware software
-ELEC4511 Hardwaresoftware workspace  
+# ELEC4511 Hardwaresoftware workspace  
 I. Course Overview  
 In classic embedded system design, hardware and software components are developed independently by separate design teams. This leads to a slow and inefficient design process. There is general agreement in the design community that a combined consideration of hardware and software design issues will lead to more efficient systems and a more efficient design process. This course, targeted at computer engineers, addresses these issues. The course provides an introduction in hardware-software co-design. It outlines the basic strengths of hardware and software implementations and shows how to combine those into a successful system design. The focus is on the commonalities in the design process of hardware and software.
 
