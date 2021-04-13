@@ -55,7 +55,7 @@ module AXIS_SobleX_v1_0 #
     assign s00_axis_tready = s00_axis_tready_reg;
    
     
-    SobleX fir(m00_axis_aclk,m00_axis_tvalid, s00_axis_tdata, data_out);
+	SobleX fir(m00_axis_aclk, 1 , s00_axis_tdata, data_out);
     
     always @(posedge s00_axis_aclk)begin
         if (s00_axis_aresetn==0)begin
